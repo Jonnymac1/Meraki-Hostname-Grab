@@ -1,0 +1,5 @@
+DeviceName,activeDdnsHostname,ddnsHostnameWan1,ddnsHostnameWan2
+5Q ATL VPC,5q-atl-vpc-pzdrbjjzrv.dynamic-m.com,5q-atl-vpc-pzdrbjjzrv-1.dynamic-m.com,5q-atl-vpc-pzdrbjjzrv-2.dynamic-m.com
+5Q Dallas,5qwhq-pptcjzvqrv.dynamic-m.com,5qwhq-pptcjzvqrv-1.dynamic-m.com,5qwhq-pptcjzvqrv-2.dynamic-m.com
+5QHQ-03-MDF-FW01,5qwhq-bnhcvhjwjp.dynamic-m.com,5qwhq-bnhcvhjwjp-1.dynamic-m.com,5qwhq-bnhcvhjwjp-2.dynamic-m.com
+5Q DAL VPC,dallas-vpc-wmwtccrgrv.dynamic-m.com,dallas-vpc-wmwtccrgrv-1.dynamic-m.com,dallas-vpc-wmwtccrgrv-2.dynamic-m.com
